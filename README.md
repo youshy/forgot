@@ -14,4 +14,4 @@ For now, you can do three moves:
 
 Add all notes to `forgot` directory which is in the same place as the binary* - and that's all!
 
-> * - this will be addressed with a small config file!
+> *this will be addressed with a small config file!
