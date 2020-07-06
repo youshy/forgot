@@ -26,7 +26,7 @@ kill session:
 
     tmux kill-session -t myname
 
-In tmux, hit the prefix `ctrl+b` and then:
+In tmux, hit the prefix `ctrl+a` and then:
 
 ## Sessions
 
@@ -46,8 +46,8 @@ In tmux, hit the prefix `ctrl+b` and then:
 
 ## Panes (splits)
 
-    %  horizontal split
-    "  vertical split
+    |  horizontal split
+    -  vertical split
     
     o  swap panes
     q  show pane numbers
